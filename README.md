@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounaf&label=Profile%20views&color=0e75b6&style=flat" alt="tounaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tounaf" alt="tounaf" /></a> </p>
-
 - 🔭 I’m currently working on **Point OF Sales of Telma Group**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tounaf?tab=repositories](https://github.com/tounaf?tab=repositories)
